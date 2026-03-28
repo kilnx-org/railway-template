@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://railway.com/template/kilnx"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="44"></a>
+  <a href="https://railway.com/deploy/kilnx"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="44"></a>
 </p>
 
 ## Kilnx on Railway
