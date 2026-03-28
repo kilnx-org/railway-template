@@ -1,5 +1,5 @@
 # Build stage: compile .kilnx to standalone binary using pre-built Kilnx CLI image
-FROM ghcr.io/kilnx-org/kilnx:1.0.1 AS builder
+FROM ghcr.io/kilnx-org/kilnx:0.1.0 AS builder
 
 COPY app.kilnx /kilnx/app.kilnx
 RUN kilnx build app.kilnx -o /app/server
